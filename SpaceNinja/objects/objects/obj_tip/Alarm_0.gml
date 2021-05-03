@@ -1,1 +1,0 @@
-giveTip = false;

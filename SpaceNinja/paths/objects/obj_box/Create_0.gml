@@ -1,2 +1,0 @@
-beingGrabbed = false;
-beingPulled = false;
