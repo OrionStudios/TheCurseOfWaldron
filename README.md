@@ -1,4 +1,4 @@
-# TheCurseOfWaldron
+# The Curse Of Waldron
 
 ### Welcome to our repo for the game The Curse of Waldron!
 This game was made with Game Maker Studio 2, and you can find all the files on here. 
