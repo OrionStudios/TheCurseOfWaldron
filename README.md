@@ -9,4 +9,4 @@ Their information can be found in the license.txt file in our game's repo.
 
 
 #### Want to play the game? 
-Checkout: https://github.com/OrionStudios/TheCurseOfWaldron
+Checkout: https://github.com/OrionStudios/TheCurseOfWaldron-Playable
