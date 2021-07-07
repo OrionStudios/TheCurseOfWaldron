@@ -1,4 +1,4 @@
-# The Curse Of Waldron
+![COWtitle](https://user-images.githubusercontent.com/25125692/124682192-36c1d500-de98-11eb-938f-f6c52393a892.PNG)
 
 ### Welcome to our repo for the game The Curse of Waldron!
 This game was made with Game Maker Studio 2, and you can find all the files on here. 
